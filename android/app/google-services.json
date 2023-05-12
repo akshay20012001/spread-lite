@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "8317183196",
+    "firebase_url": "https://minqlite-default-rtdb.firebaseio.com",
+    "project_id": "minqlite",
+    "storage_bucket": "minqlite.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:8317183196:android:b1a15c99d93abac44cc019",
+        "android_client_info": {
+          "package_name": "com.example.demoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "8317183196-3kosuh7075gtn5e3slrnrubrs1avoavh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqZt16W7ff2Pw2edLQ-TH0PfIavzN1Spg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "8317183196-3kosuh7075gtn5e3slrnrubrs1avoavh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
