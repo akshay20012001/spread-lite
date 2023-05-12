@@ -7,13 +7,17 @@ import 'Users.dart';
 import 'adm.dart';
 import 'admi.dart';
 import 'complaintregistration.dart';
+import 'firebase_options.dart';
 
 Future<void> main() async {
+  // WidgetsFlutterBinding.ensureInitialized();
+  // await Firebase.initializeApp(
+  //   options: DefaultFirebaseOptions.currentPlatform,
+  // );
   WidgetsFlutterBinding.ensureInitialized();
   await Firebase.initializeApp(
     options: DefaultFirebaseOptions.currentPlatform,
   );
-
   if (Firebase.apps.length == 0) {
     print('Firebase is not initialized');
   } else {
